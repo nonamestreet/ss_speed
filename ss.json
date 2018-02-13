@@ -1,0 +1,6 @@
+{
+  "server": "0.0.0.0",
+  "server_port": 31540,
+  "password": "8NKR8",
+  "method": "aes-256-cfb"
+}
