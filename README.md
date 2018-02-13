@@ -1,4 +1,8 @@
-Run forward-tcp.py to run a tcp forwarding server that automaticlaly pick target server based on speed test.
+
+Add your SS servers to servers.json.
+Config (e.g. password) the connection to SS server in test_ss.py
+
+Run forward-tcp.py to run a TCP forwarding server that automaticlaly pick target server based on speed test.
 
 Below is the original README.md
 
