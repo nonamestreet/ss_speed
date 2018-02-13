@@ -9,7 +9,7 @@ config_string='''
 {
   "server": "$server",
   "server_port": $port,
-  "password": "8NKR8",
+  "password": "",
   "method": "aes-256-cfb"
 }
 '''
