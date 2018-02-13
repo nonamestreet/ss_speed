@@ -1,3 +1,7 @@
+Run forward-tcp.py to run a tcp forwarding server that automaticlaly pick target server based on speed test.
+
+Below is the original README.md
+
 port-forwarder
 ==============
 

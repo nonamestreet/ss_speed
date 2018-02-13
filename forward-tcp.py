@@ -6,8 +6,6 @@ import test_ss,time
 listen_host = "0.0.0.0"
 listen_port = 31000
 
-#target_host = "127.0.0.1"
-#target_port = 32002
 
 def main():
     ss_thread=threading.Thread(target=test_ss.test)
